@@ -8,6 +8,7 @@ public class GitTest {
     public  void  gitTest(){
 
         System.out.println("Git First Update !");
+        System.out.println("Git Second Update !");
 
     }
 }
