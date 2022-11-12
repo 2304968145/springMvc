@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("Git Third Update !");
 
         System.out.println("hotfix First Update");
+        System.out.println("IDEA Push Test");
     }
 }
